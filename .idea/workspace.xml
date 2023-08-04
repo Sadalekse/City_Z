@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3743d854-7d8b-41cc-9f9f-2819577c1660" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\php\php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/larapack/dd" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2SF1r6c6eyDAOsk32XAhOZgSDJw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/OSPanel/domains/DZ&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\DZ" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3743d854-7d8b-41cc-9f9f-2819577c1660" name="Changes" comment="" />
+      <created>1688727712668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688727712668</updated>
+      <workItem from="1688727713210" duration="24000" />
+      <workItem from="1688873276933" duration="1447000" />
+      <workItem from="1689585957540" duration="7399000" />
+      <workItem from="1689596935365" duration="152000" />
+      <workItem from="1689597096414" duration="47000" />
+      <workItem from="1689597152395" duration="20000" />
+      <workItem from="1689597342685" duration="144000" />
+      <workItem from="1689597495740" duration="369000" />
+      <workItem from="1689597891084" duration="1397000" />
+      <workItem from="1689825433647" duration="2106000" />
+      <workItem from="1689920036860" duration="1292000" />
+      <workItem from="1690003664241" duration="115000" />
+      <workItem from="1690003788099" duration="7184000" />
+      <workItem from="1690345807998" duration="846000" />
+      <workItem from="1690346673956" duration="715000" />
+      <workItem from="1690372713233" duration="4000" />
+      <workItem from="1690373834801" duration="77000" />
+      <workItem from="1690454513336" duration="265000" />
+      <workItem from="1690454791706" duration="1091000" />
+      <workItem from="1690455904124" duration="604000" />
+      <workItem from="1690597896520" duration="3608000" />
+      <workItem from="1690649998573" duration="1370000" />
+      <workItem from="1690729286868" duration="5019000" />
+      <workItem from="1690783983018" duration="9895000" />
+      <workItem from="1690810386496" duration="10579000" />
+      <workItem from="1690952327203" duration="4531000" />
+      <workItem from="1691031615678" duration="1458000" />
+      <workItem from="1691052223995" duration="11764000" />
+      <workItem from="1691082640162" duration="1910000" />
+      <workItem from="1691126985353" duration="8893000" />
+      <workItem from="1691153046172" duration="4000" />
+      <workItem from="1691153090915" duration="3000" />
+      <workItem from="1691158768480" duration="2178000" />
+      <workItem from="1691161353944" duration="3000" />
+      <workItem from="1691161756723" duration="3000" />
+      <workItem from="1691161979761" duration="317000" />
+      <workItem from="1691163522062" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+{
+    "name": "aleks/dz",
+    "autoload": {
+        "psr-4": {
+            "Aleks\\Dz\\": "src/"
+        }
+    },
+    "require": {
+        "larapack/dd": "*",
+        "symfony/polyfill-mbstring": "*"
+    }
+}
